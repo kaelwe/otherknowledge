@@ -29,5 +29,5 @@ pagination: true
 ---
 
 # ** ‚Anderes Wissen’**
-# in künstlerischer Forschung und ästhetischer Theorie
+## in künstlerischer Forschung und ästhetischer Theorie
  
