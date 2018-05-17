@@ -1,10 +1,7 @@
 ---
-title: Modular Page
-onpage_menu: false
-body_classes: "modular"
-
+title: 'Modular Page'
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         custom:
             - _cc-by
@@ -13,6 +10,9 @@ content:
             - _cc-by-nc-nd
             - _cc-by-nc-sa
             - _cc-by-nd
+hide_git_sync_repo_link: false
+body_classes: 'modular header-dark'
+onpage_menu: false
 ---
 
 This is an example of a **modular** page, where content from module pages of **this page** is displayed. Each of the below definitions are contained in a separate page, and these pages can be included in multiple areas of the site.   
