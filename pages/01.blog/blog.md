@@ -28,6 +28,6 @@ feed:
 pagination: true
 ---
 
-**# ‚Anderes Wissen’**
+# ** ‚Anderes Wissen’**
 # in künstlerischer Forschung und ästhetischer Theorie
  
